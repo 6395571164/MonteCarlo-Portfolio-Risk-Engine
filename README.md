@@ -47,26 +47,10 @@ The model estimates portfolio risk through:
 - UltraTech Cement
 
 ---
-
-## Results
-
-### Portfolio Loss Distribution
-![Loss Distribution](figures/loss_distribution.png)
-
-### Correlation Stress Test
-![Stress Test](figures/correlation_stress.png)
-
-### VaR and ES Comparison
-![Risk Metrics](figures/risk_metrics.png)
-
-### Rolling VaR
-![Rolling VaR](figures/rolling_var.png)
-
----
-
 ## Technologies
 
 - MATLAB
+- Python
 - Monte Carlo Simulation
 - Financial Risk Management
 - Quantitative Finance
